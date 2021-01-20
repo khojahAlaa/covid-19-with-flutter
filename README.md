@@ -1,6 +1,8 @@
 # covid-19-with-flutter
 
-In this app i use a ##MVC (model - view - controller) design pattern.
+In this app i use a MVC (model - view - controller) design pattern.
 
 Use Covid API to show statistics info which is up to date with beautiful UI 
 
+## here App UI
+![](home1.JPG)
